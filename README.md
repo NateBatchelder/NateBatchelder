@@ -1,8 +1,4 @@
-- 👋 Hi, I’m @NateBatchelder
-- 👀 I’m interested in ... learning to code and technology in education 
-- 🌱 I’m currently learning ... full stack developer tools
-- 💞️ I’m looking to collaborate on ... projects related to education and web development
-- 📫 How to reach me ... natebatchelder@gmail.com
+
 
 <!---
 NateBatchelder/NateBatchelder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
